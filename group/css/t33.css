@@ -122,3 +122,13 @@
     justify-content: center;
     margin-top: 20px;
   }
+ .agree{
+  justify-content: center;
+ }
+ .aaa{
+  display: flex !important;
+  justify-items: end;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+ }
