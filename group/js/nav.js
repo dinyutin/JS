@@ -35,9 +35,11 @@ nav=`
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-bs-toggle="dropdown" aria-expanded="false">揪團</a>
         <ul class="dropdown-menu" aria-labelledby="dropdown04">
-          <li><a class="dropdown-item" href="#">aaaaaaa</a></li>
-          <li><a class="dropdown-item" href="#">bbbbbbb</a></li>
-          <li><a class="dropdown-item" href="#">ccccccc</a></li>
+          <li><a class="dropdown-item" href="groupsearch.html">參加揪團</a></li>
+          <li><a class="dropdown-item" href="groupform.html">發起揪團</a></li> 
+          <li><a class="dropdown-item" href="groupofuser.html">我的揪團</a></li>
+          <li><a class="dropdown-item" href="groupinfo.html">(測試子頁面)</a></li>
+          
         </ul>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-bs-toggle="dropdown" aria-expanded="false">聊天室</a>
