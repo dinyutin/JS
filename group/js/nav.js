@@ -5,7 +5,7 @@ nav=`
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  
+
   <div class="collapse navbar-collapse" id="navbarsExample04">
     <ul class="navbar-nav me-auto mb-2 mb-md-0">
         <li class="nav-item dropdown">
@@ -34,9 +34,9 @@ nav=`
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-bs-toggle="dropdown" aria-expanded="false">揪團</a>
-        <ul class="dropdown-menu" aria-labelledby="dropdown04"> 
+        <ul class="dropdown-menu" aria-labelledby="dropdown04">
           <li><a class="dropdown-item" href="groupsearch.html">參加揪團</a></li>
-          <li><a class="dropdown-item" href="groupform.html">發起揪團</a></li> 
+          <li><a class="dropdown-item" href="groupagree.html">發起揪團</a></li> 
           <li><a class="dropdown-item" href="groupofuser.html">我的揪團</a></li>
           <li><a class="dropdown-item" href="groupinfo.html">(測試子頁面)</a></li>
           
