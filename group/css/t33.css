@@ -170,7 +170,7 @@
 .nav-tabs .nav-item.show .nav-link {
   color: #495057; 
   /* background-color: #b7c6db; */
-  background:linear-gradient(#b7c6db, #d7dbe0,#d7dbe0,#d7dbe0);
+  background:linear-gradient( #d7dbe0,#b7c6db);
   border-color: #dee2e6 #dee2e6 #fff;
 }
 .bg-33{
