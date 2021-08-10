@@ -72,7 +72,8 @@
   /* 預覽圖 */
   #preview{
     padding: 1rem 0.75rem;
-    border: 1px solid lightgray;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 0.2rem;
     display: inline-block;
     width: 350px;
     min-height: 57.99px;
@@ -97,9 +98,9 @@
   }
   /* 預覽圖下面的按鈕 */
   .file_label {
-      box-shadow:inset 0px 0px 0px 0px #9fb4f2;
+      /* box-shadow:inset 0px 0px 0px 0px #9fb4f2; */
       /* background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%); */
-      background-color:#7892c2;
+      background-color:#709ee4;
       border-radius:4px;
       display:inline-block;
       cursor:pointer;
@@ -111,7 +112,6 @@
       text-decoration:none;
   }
   .file_label:hover {
-      background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
       background-color:#476e9e;
   }
   .file_label:active {
