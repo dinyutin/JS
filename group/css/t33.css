@@ -168,7 +168,11 @@
 }
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
-  background-color: #b7c6db;
+  color: #495057; 
+  /* background-color: #b7c6db; */
+  background:linear-gradient(#b7c6db, #d7dbe0,#d7dbe0,#d7dbe0);
   border-color: #dee2e6 #dee2e6 #fff;
+}
+.bg-33{
+background: linear-gradient(#b7c6db, #f6efe5,#b7c6db);
 }
