@@ -132,3 +132,16 @@
   justify-content: center;
   margin-top: 15px;
  }
+ .bbb{
+  display: flex !important;
+  justify-content: flex-end;
+  margin-top: 5px;
+ }
+ .cardcolor{
+   background-color: #6B8BB2;
+   color:white
+ }
+ .bcard{
+   border-color: white;
+   color: white;
+ }
